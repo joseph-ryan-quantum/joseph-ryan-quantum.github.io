@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my CV as a PDF: [download link](/files/cv.pdf) (add your PDF to the `files/` directory and update this link).
-
 Education
 ======
 * Ph.D. Candidate in [your field], Duke University, [expected year]
