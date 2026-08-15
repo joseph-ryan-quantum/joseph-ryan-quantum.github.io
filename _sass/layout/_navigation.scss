@@ -203,7 +203,8 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    align-items: center;
 
     li {
       display: table-cell;
@@ -226,6 +227,8 @@
     }
 
     #theme-toggle {
+      margin-left: auto;
+
       a {
         width: 25px;
         display: flex;
