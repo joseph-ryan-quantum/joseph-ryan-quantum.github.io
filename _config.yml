@@ -28,8 +28,8 @@ author:
   name             : "Joseph M. Ryan"
   pronouns         : # example: "she/her"
   bio              : "PhD Candidate @ Duke Quantum Center"
-  location         : "Durham, NC"
-  employer         : "Duke Quantum Center"
+  location         : # Durham, NC
+  employer         : # Duke Quantum Center
   uri              : # URL
   email            : "joseph.ryan@duke.edu"
 
