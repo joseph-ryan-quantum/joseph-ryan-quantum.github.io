@@ -1,4 +1,4 @@
-# josephryan00-quantumize-it.github.io
+# joseph-ryan-quantum.github.io
 
 Joseph M. Ryan's research website, built with [Jekyll](https://jekyllrb.com/) using the [academicpages](https://github.com/academicpages/academicpages.github.io) template, hosted on GitHub Pages.
 
