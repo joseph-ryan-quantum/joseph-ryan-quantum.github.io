@@ -15,4 +15,6 @@ Research Interests
 - Trapped-ion experiments
 - Quantum measurement and noise-driven dynamics
 
+You can find my work on my [Google Scholar page](https://scholar.google.com/citations?user=ZuAt-UwAAAAJ&hl=en).
+
 [Publications](/publications/) · [CV](/cv/) · [joseph.ryan@duke.edu](mailto:joseph.ryan@duke.edu)
