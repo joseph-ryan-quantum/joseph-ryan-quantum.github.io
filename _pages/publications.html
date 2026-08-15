@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% if site.author.googlescholar %}
+  <p>You can find my work on my <a href="{{ site.author.googlescholar }}">Google Scholar page</a>.</p>
+{% endif %}
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
