@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at the [Duke Quantum Center](https://quantum.duke.edu/), working on trapped-ion quantum systems. My research uses single trapped ions to study quantum first-passage-time statistics and the crossover between quantum and classical dynamics under measurement and noise.
+I'm a PhD Candidate at the [Duke Quantum Center](https://quantum.duke.edu/), working on trapped-ion quantum computing. 
 
 Research Interests
 ======
-- Quantum first-passage-time distributions
 - Trapped-ion experiments
+- Decoherence and noise
+- Quantum Control
+- Quantum first-passage-time distributions
 - Quantum measurement and noise-driven dynamics
 
 You can find my work on my [Google Scholar page](https://scholar.google.com/citations?user=ZuAt-UwAAAAJ&hl=en).
