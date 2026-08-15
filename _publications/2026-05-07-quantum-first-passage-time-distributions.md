@@ -2,9 +2,9 @@
 title: "Experimental measurement of quantum first-passage-time distributions"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-04-01-quantum-first-passage-time-distributions
+permalink: /publication/2026-05-07-quantum-first-passage-time-distributions
 excerpt: 'First experimental measurement of quantum first-passage-time distributions, using a motional mode of a single trapped ion and a novel composite-phase pulse sequence for stroboscopic single-shot projective measurements.'
-date: 2026-04-01
+date: 2026-05-07
 venue: 'Physical Review Research 8, L022025'
 paperurl: 'https://journals.aps.org/prresearch/abstract/10.1103/p3pl-1m6n'
 citation: 'Ryan, J. M., Gorbaty, S., Kessler, T. J., Peaks, M. G., Teitsworth, S. W., &amp; Noel, C. (2026). &quot;Experimental measurement of quantum first-passage-time distributions.&quot; <i>Physical Review Research</i>, 8(2), L022025.'

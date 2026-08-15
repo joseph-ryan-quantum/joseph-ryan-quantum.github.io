@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at the [Duke Quantum Center](https://quantum.duke.edu/), where my research focuses on [add a sentence or two here about your specific research area — e.g. trapped-ion quantum computing, error correction, quantum algorithms].
-
-This site collects my publications, research projects, and CV. Feel free to reach out at [joseph.ryan@duke.edu](mailto:joseph.ryan@duke.edu).
+I'm a PhD Candidate at the [Duke Quantum Center](https://quantum.duke.edu/), working on trapped-ion quantum systems. My research uses single trapped ions to study quantum first-passage-time statistics and the crossover between quantum and classical dynamics under measurement and noise.
 
 Research Interests
 ======
-- Add your first research interest here
-- Add your second research interest here
-- Add your third research interest here
+- Quantum first-passage-time distributions
+- Trapped-ion experiments
+- Quantum measurement and noise-driven dynamics
+
+[Publications](/publications/) · [CV](/cv/) · [joseph.ryan@duke.edu](mailto:joseph.ryan@duke.edu)
