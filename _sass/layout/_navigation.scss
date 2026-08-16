@@ -192,7 +192,7 @@
   button {
     position: absolute;
     height: 2.5rem;
-    right: 0;
+    right: 45px;
     padding: 0 0.5rem;
     border: 0;
     outline: none;
@@ -202,8 +202,24 @@
     z-index: 100;
   }
 
+  #theme-toggle {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 100;
+
+    a {
+      display: flex;
+      width: 25px;
+      justify-content: center;
+      cursor: pointer;
+    }
+  }
+
   .visible-links {
     display: table;
+    margin-right: 40px;
 
     li {
       display: table-cell;
@@ -222,16 +238,6 @@
         a {
           margin-right: 0;
         }
-      }
-    }
-
-    #theme-toggle {
-      a {
-        width: 25px;
-        margin-left: 2rem;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
       }
     }
 
