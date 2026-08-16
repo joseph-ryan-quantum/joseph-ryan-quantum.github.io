@@ -1,5 +1,5 @@
 ---
-title: "<u>Quantum First-Passage-Time Distributions</u>"
+title: "Quantum First-Passage-Time Distributions"
 excerpt: "When does a quantum system first cross an energy threshold? <br/><img src='/images/quantum-fptds-fig.png'>"
 collection: portfolio
 ---
