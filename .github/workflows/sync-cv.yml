@@ -1,0 +1,33 @@
+name: Sync CV from Overleaf
+
+on:
+  repository_dispatch:
+    types: [cv-updated]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull latest CV from Overleaf-synced repo
+        env:
+          CV_REPO_TOKEN: ${{ secrets.CV_REPO_TOKEN }}
+        run: |
+          git remote add overleaf-cv "https://x-access-token:${CV_REPO_TOKEN}@github.com/joseph-ryan-quantum/CV_github.git"
+          git fetch overleaf-cv main
+          git subtree pull --prefix=cv overleaf-cv main --squash -m "Sync CV from Overleaf"
+
+      - name: Push
+        run: git push origin main
