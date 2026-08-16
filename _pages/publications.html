@@ -3,12 +3,14 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+hide_title: true
 ---
 
 {% include base_path %}
 
 {% if site.author.googlescholar %}
   <p>You can find my work on my <a href="{{ site.author.googlescholar }}">Google Scholar page</a>.</p>
+  <hr>
 {% endif %}
 
 {% for post in site.publications reversed %}
